@@ -9,25 +9,25 @@
 }
 
 body {
-	margin: 0;
-	--color-text: #e5e3e0;
-	--color-bg: #000;
-	--color-link: #e5e3e0;
-	--color-link-hover: #fff;
-	--color-title: #faedba;
-	--color-bg-item: #282b27;
-	--color-menu-tag: #f0b579;
-	--color-menu-link: #fff;
-	--color-menu-link-hover: #f0b579;
-	--font-menu-link: rigatoni, sans-serif;
-	--font-weight-menu-link: 400;
-	--font-size-menu-link: 5vw;
-	--clip-1: polygon(37% 15%, 63% 15%, 63% 85%, 37% 85%);
-	color: var(--color-text);
-	background-color: var(--color-bg);
-	font-family: soleil, Futura, "Trebuchet MS", Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+	margin: 0 !important;
+	--color-text: #e5e3e0 !important;
+	--color-bg: #000 !important;
+	--color-link: #e5e3e0 !important;
+	--color-link-hover: #fff !important;
+	--color-title: #faedba !important;
+	--color-bg-item: #282b27 !important;
+	--color-menu-tag: #f0b579 !important;
+	--color-menu-link: #fff !important;
+	--color-menu-link-hover: #f0b579 !important;
+	--font-menu-link: rigatoni, sans-serif !important;
+	--font-weight-menu-link: 400 !important;
+	--font-size-menu-link: 5vw !important;
+	--clip-1: polygon(37% 15%, 63% 15%, 63% 85%, 37% 85%) !important;
+	color: var(--color-text) !important;
+	background-color: var(--color-bg) !important;
+	font-family: soleil, Futura, "Trebuchet MS", Arial, sans-serif !important;
+	-webkit-font-smoothing: antialiased !important;
+	-moz-osx-font-smoothing: grayscale !important;
 }
 
 .logo {
