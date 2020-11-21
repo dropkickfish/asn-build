@@ -22,7 +22,7 @@ body {
 	--font-menu-link: rigatoni, sans-serif !important;
 	--font-weight-menu-link: 400 !important;
 	--font-size-menu-link: 5vw !important;
-	--clip-1: polygon(37% 15%, 63% 15%, 63% 85%, 37% 85%) !important;
+	--clip-1: polygon(50% 0, 25% 100%, 75% 100%) !important;
 	color: var(--color-text) !important;
 	background-color: var(--color-bg) !important;
 	font-family: soleil, Futura, "Trebuchet MS", Arial, sans-serif !important;
