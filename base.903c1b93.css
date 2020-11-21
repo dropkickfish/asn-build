@@ -260,7 +260,6 @@ main {
 
 .menu__item-link {
 	color: var(--color-menu-link);
-	font-family: var(--font-menu-link);
 	font-weight: var(--font-weight-menu-link);
 	font-size: 3rem;
 	line-height: 1;
